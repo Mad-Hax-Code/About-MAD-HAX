@@ -1,14 +1,10 @@
-# Mission Statement from WWW.MAD-HAX.COM
+# Mission Statement from MAD-HAX.COM
 
 Provide the means for security professionals, and the average home user, to secure their networks and protect their data by offering clear and concise instruction and example of proper computer security techniques. Visit our site and become a Code Warrior!
 
 ### Mad-Hax: Code Warriors GitHub Repository
 
 This GitHub repository is intended to support the open source application development of information security and privacy tools. 
-
-### Get Involved
-
-Visit https://www.mad-hax.com/ for instructionals and information on how to get involved.
 
 ## Development focuses:
 
@@ -20,3 +16,7 @@ Visit https://www.mad-hax.com/ for instructionals and information on how to get 
 ## Current projects:
 
     * NONE
+    
+## Get Involved
+
+Visit https://www.mad-hax.com/ for instructionals and information on how to get involved. Join us and become a Code Warrior!
