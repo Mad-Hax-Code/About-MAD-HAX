@@ -15,7 +15,7 @@ This GitHub repository is intended to support the open source application develo
     
 ## Current projects ##
 
-* (Encrypt File)[https://github.com/Mad-Hax-Code/Encrypt-File]
+* [Encrypt File](https://github.com/Mad-Hax-Code/Encrypt-File)
     
 ## Get Involved ##
 
