@@ -13,10 +13,6 @@ This GitHub repository is intended to support the open source application develo
 * Firewalls
 * Network Security
     
-## Current projects ##
-
-* [Encrypt File](https://github.com/Mad-Hax-Code/Encrypt-File)
-    
 ## Get Involved ##
 
 Visit https://www.mad-hax.com/ for instructionals and information on how to get involved. Join us and become a Code Warrior!
